@@ -1,0 +1,30 @@
+
+td,
+th {
+  border: 1px solid lightblue;
+}
+input,
+label {
+  text-align: left;
+  width:150px;
+  margin: 10px; /*Marges intérieures*/
+}
+
+#form1 {
+  width: 400px;
+  padding: 10px; /*Marges intérieures*/
+  margin: 10px; /*Marges extérieures*/
+  border: solid; /*Style de bordure*/
+  border-width: 1px;
+  text-align: justify;
+}
+
+#td {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightblue;
+  padding: 10px; /*Marges intérieures*/
+  margin: 10px; /*Marges extérieures*/
+  border: solid; /*Style de bordure*/
+  border-width: 1px;
+
+}
